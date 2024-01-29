@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JGdKAR+w7BRwR2vN73NS3Z+iWOca+ft91FzXzwb0l/1NFknNbj+yquQrP8SODQuas7iulU9PgmanA8VuJDx21Q==",
+  "dgSpecHash": "7ZXdlcNy6SttWJ57QAyB+XbP3/TCk6UMDviYGiOx1JqmAtFFpNGTTFmaU/2c9r5vKOprfM9fxyJcPwEv4kf6Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\WebApiExample\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\myGit\\aaaa\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

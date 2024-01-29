@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\WebApiExample\\Dto\\Dto.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\myGit\\aaaa\\Dto\\Dto.csproj",
       "projectName": "Dto",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\WebApiExample\\Dto\\Dto.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\myGit\\aaaa\\Dto\\Dto.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\WebApiExample\\Dto\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\myGit\\aaaa\\Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
