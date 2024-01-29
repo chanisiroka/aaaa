@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\USER\source\repos\WebApiExample\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\USER\source\repos\WebApiExample\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache

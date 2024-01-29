@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\Dal.deps.json
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\Dal.dll
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\ref\Dal.dll
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\Dal.pdb
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.dll
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\ref\Dal.dll
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.pdb
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\Entity.dll
+C:\Users\USER\source\repos\WebApiExample\Dal\bin\Debug\net5.0\Entity.pdb
+C:\Users\USER\source\repos\WebApiExample\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
